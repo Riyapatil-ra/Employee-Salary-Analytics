@@ -29,7 +29,7 @@ This repository contains the following files:
 
 | File Name                        | Description                                                     |
 | -------------------------------- | --------------------------------------------------------------- |
-| `employee_salary_raw.csv`        | Raw dataset downloaded from Kaggle                              |
+| `employee_salary_raw.xlsx`        | Raw dataset downloaded from Kaggle                              |
 | `employee_salary_analysis.xlsx`  | Excel-based analysis (cleaning, formulas, pivot tables, charts) |
 | `Employee salary dashboard.pbix` | Interactive Power BI dashboard                                  |
 | `salary_analysis.sql`            | SQL queries used for analysis                                   |
